@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProject>
+  <Options>
+    <BuildPath>$PROJECTPATH\build</BuildPath>
+    <CompilerWarningsAsErrors>True</CompilerWarningsAsErrors>
+    <WarnDeprecatedCode>True</WarnDeprecatedCode>
+    <CheckFilenameConventions>True</CheckFilenameConventions>
+    <ProjectType>keyboard</ProjectType>
+  </Options>
+  <Files>
+    <File>
+      <ID>id_22e0426af4a90699d7ee43334d68922f</ID>
+      <Filename>pulaar_fulfulde_2021.kmn</Filename>
+      <Filepath>source\pulaar_fulfulde_2021.kmn</Filepath>
+      <FileVersion>1.0</FileVersion>
+      <FileType>.kmn</FileType>
+      <Details>
+        <Name>Tappirde Pulaar Fulfulde 2021</Name>
+        <Copyright>© 2021 Ibrahima Malal Sarr - pulaar-fulfulde.org</Copyright>
+      </Details>
+    </File>
+    <File>
+      <ID>id_418a5fb0ad523a3cbaec66e1fb0b86bf</ID>
+      <Filename>pulaar_fulfulde_2021.kps</Filename>
+      <Filepath>source\pulaar_fulfulde_2021.kps</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.kps</FileType>
+      <Details>
+        <Name>pulaar-fulfulde_2021</Name>
+        <Copyright>© 2021 PULAAR-FULFULDE.ORG</Copyright>
+      </Details>
+    </File>
+    <File>
+      <ID>id_1c61c7f2ca2cde7eddd68f2fc7fb2e9e</ID>
+      <Filename>pulaar_fulfulde_2021.keyboard_info</Filename>
+      <Filepath>pulaar_fulfulde_2021.keyboard_info</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.keyboard_info</FileType>
+    </File>
+    <File>
+      <ID>id_63e313395c760a1d1b2d839625773e9c</ID>
+      <Filename>ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model.kps</Filename>
+      <Filepath>..\Renamed files for packaging\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020\build\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model.kps</Filepath>
+      <FileVersion>1.0</FileVersion>
+      <FileType>.kps</FileType>
+      <Details>
+        <Name>fuc_language-model</Name>
+        <Copyright>© 2020 Ibrahima Malal Sarr</Copyright>
+        <Version>1.0</Version>
+      </Details>
+    </File>
+    <File>
+      <ID>id_59726128641bf94f23d00205e237620b</ID>
+      <Filename>NotoSerif-Regular.ttf</Filename>
+      <Filepath>Fonts\NotoSerif-Regular.ttf</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <ID>id_7cd0ad61a07516bdb8b32ac2453b0f1c</ID>
+      <Filename>ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model.kmp</Filename>
+      <Filepath>build\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model.kmp</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.kmp</FileType>
+    </File>
+    <File>
+      <ID>id_ba61b5739ee62b08532a3d75ce68629b</ID>
+      <Filename>EBGaramond-VariableFont_wght.ttf</Filename>
+      <Filepath>Fonts\EBGaramond-VariableFont_wght.ttf</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <ID>id_1961a69f4200f4f221d208e6cdb37099</ID>
+      <Filename>pulaar_fulfulde_2021.kmp</Filename>
+      <Filepath>build\pulaar_fulfulde_2021.kmp</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.kmp</FileType>
+    </File>
+    <File>
+      <ID>id_1512421dc87476b4e4026cdc89e48cad</ID>
+      <Filename>pulaar_fulfulde_2021.js</Filename>
+      <Filepath>source\..\build\pulaar_fulfulde_2021.js</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.js</FileType>
+      <ParentFileID>id_418a5fb0ad523a3cbaec66e1fb0b86bf</ParentFileID>
+    </File>
+    <File>
+      <ID>id_e0941078535cea03ca6ffe5c48fbdb51</ID>
+      <Filename>NotoSerif-Regular.ttf</Filename>
+      <Filepath>source\..\Fonts\NotoSerif-Regular.ttf</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.ttf</FileType>
+      <ParentFileID>id_418a5fb0ad523a3cbaec66e1fb0b86bf</ParentFileID>
+    </File>
+    <File>
+      <ID>id_bc1c59e2099f3de42566ad1ea41099c4</ID>
+      <Filename>ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model.js</Filename>
+      <Filepath>..\Renamed files for packaging\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020\build\..\build\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model.js</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.js</FileType>
+      <ParentFileID>id_63e313395c760a1d1b2d839625773e9c</ParentFileID>
+    </File>
+    <File>
+      <ID>id_651021a920cb97afc361d69f390fc041</ID>
+      <Filename>tappirde_pulaar_fulfulde.keyman-touch-layout</Filename>
+      <Filepath>..\Renamed files for packaging\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020\build\..\..\pulaarv2\tappirde_pulaar_fulfulde.keyman-touch-layout</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.keyman-touch-layout</FileType>
+      <ParentFileID>id_63e313395c760a1d1b2d839625773e9c</ParentFileID>
+    </File>
+    <File>
+      <ID>id_cd37551b01f18f53f2deaf9c315a9a17</ID>
+      <Filename>tappirde_pulaar_fulfulde.kmn</Filename>
+      <Filepath>..\Renamed files for packaging\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020\build\..\..\pulaarv2\tappirde_pulaar_fulfulde.kmn</Filepath>
+      <FileVersion>1.0</FileVersion>
+      <FileType>.kmn</FileType>
+      <ParentFileID>id_63e313395c760a1d1b2d839625773e9c</ParentFileID>
+      <Details>
+        <Name>Tappirde Pulaar-Fulfulde 2020</Name>
+        <Copyright>© 2020 PULAAGU MEDIA GROUP</Copyright>
+      </Details>
+    </File>
+    <File>
+      <ID>id_7d2498200a2baf0306a573a85acb145b</ID>
+      <Filename>NotoSerif-Regular.ttf</Filename>
+      <Filepath>..\Renamed files for packaging\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020\build\..\..\..\pulaar_fulfulde_2021\Fonts\NotoSerif-Regular.ttf</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.ttf</FileType>
+      <ParentFileID>id_63e313395c760a1d1b2d839625773e9c</ParentFileID>
+    </File>
+    <File>
+      <ID>id_9affe7bdf8552fe6cadc16b0f15dd8ff</ID>
+      <Filename>tappirde_pulaar_fulfulde.ico</Filename>
+      <Filepath>..\Renamed files for packaging\pulaarv2\tappirde_pulaar_fulfulde.ico</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.ico</FileType>
+      <ParentFileID>id_cd37551b01f18f53f2deaf9c315a9a17</ParentFileID>
+    </File>
+  </Files>
+</KeymanDeveloperProject>

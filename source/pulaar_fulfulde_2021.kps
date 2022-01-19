@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>14.0.270.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+    <FollowKeyboardVersion/>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Name URL="">pulaar-fulfulde_2021</Name>
+    <Copyright URL="">© 2021 PULAAR-FULFULDE.ORG</Copyright>
+    <Author URL="">Ibrahima Malal Saar</Author>
+    <Version URL=""></Version>
+    <WebSite URL="www.pulaar-fulfulde.org/blog/ibrahima-sarr">www.pulaar-fulfulde.org/blog/ibrahima-sarr</WebSite>
+  </Info>
+  <Files>
+    <File>
+      <Name>..\build\pulaar_fulfulde_2021.js</Name>
+      <Description>File pulaar_fulfulde_2021.js</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+    <File>
+      <Name>..\Fonts\NotoSerif-Regular.ttf</Name>
+      <Description>Font Noto Serif</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>Tappirde Pulaar Fulfulde 2021</Name>
+      <ID>pulaar_fulfulde_2021</ID>
+      <Version>1.0</Version>
+      <OSKFont>..\Fonts\NotoSerif-Regular.ttf</OSKFont>
+      <DisplayFont>..\Fonts\NotoSerif-Regular.ttf</DisplayFont>
+      <Languages>
+        <Language ID="ff">Fulah</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>
